@@ -7,3 +7,5 @@ let variableBooleas = true
 variableBoolean = false 
 
 let variableNull = null
+
+let variablelista = ['']
